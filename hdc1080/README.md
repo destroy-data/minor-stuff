@@ -1,4 +1,4 @@
-**Small micropython library for esp82266 (should work on ESP32 as well) to work with HDC1080 humidity and temperature sensor.**
+**Small micropython library for esp8266 (should work on ESP32 as well) to work with HDC1080 humidity and temperature sensor.**
 
 It consists of one class with three methods.
 
